@@ -1,0 +1,21 @@
+aws_region = "Rigion-Name"
+
+aws_profile = "aws profile name"
+
+project_name = "aws-project-name"
+
+vpc_cidr = "10.0.0.0/16"
+
+public_subnet_cidr = "10.0.1.0/24"
+
+private_subnet_cidr = "10.0.2.0/24"
+
+availability_zone = "availability-zone-name"
+
+my_ip = "your-current-ip/32"
+
+instance_type = "type-of-the-instance"
+
+key_name = "ssh-key-name"
+
+private_key_path = "key-path/key-name.pem"
