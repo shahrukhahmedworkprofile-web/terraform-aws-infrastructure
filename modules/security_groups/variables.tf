@@ -1,0 +1,14 @@
+variable "project_name" {
+  description = "Project name"
+  type        = string
+}
+
+variable "vpc_id" {
+  description = "VPC ID"
+  type        = string
+}
+
+variable "my_ip" {
+  description = "Your public IP address in CIDR notation"
+  type        = string
+}
